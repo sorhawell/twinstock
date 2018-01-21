@@ -1,0 +1,835 @@
+﻿,ticker,twin,name,exch,cat,country
+830,AKO-A,x,Embotelladora Andina S.A.,NYQ,Beverages - Soft Drinks,USA
+1025,AKO-B,x,Embotelladora Andina S.A.,NYQ,Beverages - Soft Drinks,USA
+34713,AKOA.SG,,Embotelladora Andina S.A.,STU,,Germany
+34794,AKOB.F,,Embotelladora Andina S.A.,FRA,,France
+2028,BRK-A,x,Berkshire Hathaway Inc.,NYQ,Property & Casualty Insurance,USA
+2036,BRK-B,x,Berkshire Hathaway Inc.,NYQ,,USA
+14718,BERK34F.SA,,Berkshire Hathaway Inc.,SAO,,Brazil
+14719,BERK34.SA,,Berkshire Hathaway Inc.,SAO,Property & Casualty Insurance,Brazil
+21621,BRYN.F,,Berkshire Hathaway Inc.,FRA,,France
+21622,BRYN.DE,,Berkshire Hathaway Inc.,FRA,,France
+21626,BRH.F,,Berkshire Hathaway Inc.,FRA,,France
+44291,BRKB.MX,,Berkshire Hathaway Inc.,MEX,Property & Casualty Insurance,Mexico
+44589,BRH.DE,,Berkshire Hathaway Inc.,GER,,Germany
+1803,BF-A,x,Brown-Forman Corporation,NYQ,,USA
+2348,BF-B,x,Brown-Forman Corporation,NYQ,Beverages - Wineries & Distillers,USA
+45056,BF5B.F,,Brown-Forman Corporation,FRA,,France
+3549,STZ-B,,"Constellation Brands, Inc.",NYQ,,USA
+21584,CB1A.F,,"Constellation Brands, Inc.",FRA,,France
+98487,STZ.MX,,"Constellation Brands, Inc.",MEX,Beverages - Wineries & Distillers,Mexico
+916,MOG-A,x,Moog Inc.,NYQ,Aerospace/Defense Products & Services,USA
+3640,MOG-B,x,Moog Inc.,NYQ,,USA
+88099,MO7A.F,,Moog Inc.,FRA,,France
+3668,LEN-B,x,Lennar Corporation,NYQ,,USA
+3973,LEN,x,Lennar Corporation,NYQ,Residential Construction,USA
+84945,LEN.MX,,Lennar Corporation,MEX,Residential Construction,Mexico
+85028,LNN.F,,Lennar Corporation,FRA,,France
+3725,GEF-B,x,"Greif, Inc.",NYQ,,USA
+9496,GEF,x,"Greif, Inc.",NYQ,Packaging & Containers,USA
+104623,GR3.F,,"Greif, Inc.",FRA,,France
+5371,RDS-A,x,Royal Dutch Shell plc,NYQ,,USA
+5388,RDS-B,x,Royal Dutch Shell plc,NYQ,Major Integrated Oil & Gas,USA
+5396,RDSA.L,x,Royal Dutch Shell plc,LSE,,United Kingdom
+5506,RDSB.L,x,Royal Dutch Shell plc,LSE,Major Integrated Oil & Gas,United Kingdom
+5719,RDSB.MX,,Royal Dutch Shell plc,MEX,Major Integrated Oil & Gas,Mexico
+5720,RDSA.AS,,Royal Dutch Shell plc,AMS,Major Integrated Oil & Gas,Netherlands
+5867,RDSA.MX,,Royal Dutch Shell plc,MEX,Major Integrated Oil & Gas,Mexico
+5870,R6C3.DE,,Royal Dutch Shell plc,GER,Major Integrated Oil & Gas,Germany
+6472,RYDBF,x,Royal Dutch Shell plc,PNK,,USA
+6473,RYDAF,x,Royal Dutch Shell plc,PNK,,USA
+6494,RDSB.AS,,Royal Dutch Shell plc,AMS,Major Integrated Oil & Gas,Netherlands
+6504,R6C3.F,,Royal Dutch Shell plc,FRA,Major Integrated Oil & Gas,France
+6506,R6C1.DE,,Royal Dutch Shell plc,GER,Major Integrated Oil & Gas,Germany
+6508,R6C.DE,,Royal Dutch Shell plc,GER,Major Integrated Oil & Gas,Germany
+30264,R6C2.F,,Royal Dutch Shell plc,FRA,Major Integrated Oil & Gas,France
+31226,R6C1.F,,Royal Dutch Shell plc,FRA,Major Integrated Oil & Gas,France
+62414,RDSA.SW,,Royal Dutch Shell plc,EBS,,Switzerland
+62460,R6C2.DE,,Royal Dutch Shell plc,GER,Major Integrated Oil & Gas,Germany
+62464,0LN9.L,,Royal Dutch Shell plc,LSE,,United Kingdom
+62470,R6C.F,,Royal Dutch Shell plc,FRA,Major Integrated Oil & Gas,France
+2299,EBR,,Centrais Elétricas Brasileiras S.A. - Eletrobras,NYQ,Electric Utilities,USA
+8100,ELET3.SA,,Centrais Elétricas Brasileiras S.A. - Eletrobras,SAO,Electric Utilities,Brazil
+8141,EBR-B,,Centrais Elétricas Brasileiras S.A. - Eletrobras,NYQ,,USA
+30111,L3XB.F,x,Centrais Elétricas Brasileiras S.A. - Eletrobras,FRA,,France
+31085,L3XC.F,x,Centrais Elétricas Brasileiras S.A. - Eletrobras,FRA,,France
+50656,ELET6.SA,,Centrais Elétricas Brasileiras S.A. - Eletrobras,SAO,Electric Utilities,Brazil
+54592,ELET5.SA,,Centrais Elétricas Brasileiras S.A. - Eletrobras,SAO,Electric Utilities,Brazil
+64019,L3X.F,,Centrais Elétricas Brasileiras S.A. - Eletrobras,FRA,,France
+64388,L3XA.F,,Centrais Elétricas Brasileiras S.A. - Eletrobras,FRA,,France
+8624,FCE-A,x,"Forest City Realty Trust, Inc",NYQ,Property Management,USA
+9218,FCE-B,x,"Forest City Realty Trust, Inc",NYQ,,USA
+5345,JW-A,x,"John Wiley & Sons, Inc.",NYQ,Publishing - Books,USA
+12141,JW-B,x,"John Wiley & Sons, Inc.",NYQ,,USA
+20239,CRD-B,x,Crawford & Company,NYQ,Insurance Brokers,USA
+20285,CRD-A,x,Crawford & Company,NYQ,,USA
+11602,WSO,x,"Watsco, Inc.",NYQ,Electronics Wholesale,USA
+22986,WSO-B,x,"Watsco, Inc.",NYQ,,USA
+23577,WC3.F,,"Watsco, Inc.",FRA,,France
+2145,BIO,x,"Bio-Rad Laboratories, Inc.",NYQ,Medical Laboratories & Research,USA
+47002,BIO-B,x,"Bio-Rad Laboratories, Inc.",NYQ,,USA
+47124,BUWA.F,,"Bio-Rad Laboratories, Inc.",FRA,,France
+1096,ATD-B.TO,x,Alimentation Couche-Tard Inc.,TOR,Grocery Stores,Canada
+1244,ATD-A.TO,x,Alimentation Couche-Tard Inc.,TOR,Grocery Stores,Canada
+34816,ANCUF,,Alimentation Couche-Tard Inc.,PNK,,USA
+35131,ANCTF,,Alimentation Couche-Tard Inc.,PNK,,USA
+35455,CJA.F,,Alimentation Couche-Tard Inc.,FRA,,France
+977,VOLVY,,AB Volvo (publ),PNK,,USA
+1135,VOLV-B.ST,x,AB Volvo (publ),STO,Trucks & Other Vehicles,Sweden
+21868,VOLV-A.ST,x,AB Volvo (publ),STO,Trucks & Other Vehicles,Sweden
+22846,VOLAF,,AB Volvo (publ),PNK,,USA
+28667,0HTP.L,,AB Volvo (publ),LSE,,United Kingdom
+28784,VOLVF,,AB Volvo (publ),PNK,,USA
+28853,VLVLY,,AB Volvo (publ),PNK,,USA
+29082,0MHW.L,,AB Volvo (publ),LSE,,United Kingdom
+102159,VOLVB.ST,,AB Volvo (publ),STO,,Sweden
+102186,VOL1.F,x,AB Volvo (publ),FRA,,France
+102187,VOL3.F,x,AB Volvo (publ),FRA,,France
+1141,TRZ-B.TO,x,"Transat AT, Inc.",TOR,,Canada
+40168,TRZ-A.TO,x,"Transat AT, Inc.",TOR,,Canada
+1175,LUND-B.ST,,L E Lundbergföretagen AB (publ),STO,Asset Management,Sweden
+28484,0GWB.L,,L E Lundbergföretagen AB (publ),LSE,,United Kingdom
+1223,CLAS-B.ST,,Clas Ohlson AB (publ),STO,"Specialty Retail, Other",Sweden
+29186,0GQE.L,,Clas Ohlson AB (publ),LSE,,United Kingdom
+1227,CARL-B.CO,x,Carlsberg A/S,CPH,,Denmark
+53016,CBGA.F,,Carlsberg A/S,FRA,,France
+53052,CABGY,,Carlsberg A/S,PNK,,USA
+53179,CARLB.SW,,Carlsberg A/S,EBS,,Switzerland
+53482,CBGB.F,,Carlsberg A/S,FRA,,France
+61473,CARL-A.CO,x,Carlsberg A/S,CPH,,Denmark
+61559,0AI4.L,,Carlsberg A/S,LSE,,United Kingdom
+103138,CABJF,,Carlsberg A/S,PNK,,USA
+1233,BBTO-B.ST,,B&B Tools AB (publ),STO,,Sweden
+1298,XANO-B.ST,,XANO Industri AB (publ),STO,Diversified Machinery,Sweden
+1374,KINV-B.ST,x,Kinnevik AB,STO,,Sweden
+28938,KINNF,,Kinnevik AB,PNK,,USA
+29067,0JAA.L,,Kinnevik AB,LSE,,United Kingdom
+79998,IV6B.F,,Kinnevik AB,,,
+81976,KINV-A.ST,x,Kinnevik AB,STO,,Sweden
+1427,BEIJ-B.ST,,Beijer Ref AB (publ),STO,Diversified Machinery,Sweden
+28710,0MWH.L,,Beijer Ref AB (publ),LSE,,United Kingdom
+1490,AKT-B.TO,x,AKITA Drilling Ltd.,TOR,Oil & Gas Drilling & Exploration,Canada
+6231,AKTAF,,AKITA Drilling Ltd.,PNK,,USA
+6232,AKT-A.TO,x,AKITA Drilling Ltd.,TOR,Oil & Gas Drilling & Exploration,Canada
+1502,AGF-B.TO,,AGF Management Limited,TOR,Asset Management,Canada
+32044,AGFMF,,AGF Management Limited,PNK,,USA
+33422,A3J.F,,AGF Management Limited,FRA,,France
+1541,VBG-B.ST,,VBG Group AB (publ),STO,Auto Parts,Sweden
+1575,SKBSY,,Skanska AB (publ),PNK,,USA
+1576,SKA-B.ST,,Skanska AB (publ),STO,General Contractors,Sweden
+28720,SKSBF,,Skanska AB (publ),PNK,,USA
+29168,0HBT.L,,Skanska AB (publ),LSE,,United Kingdom
+96254,SKNB.F,,Skanska AB (publ),FRA,,France
+96255,SKAB.ST,,Skanska AB (publ),STO,,Sweden
+1589,SAAB-B.ST,,Saab AB (publ),STO,Aerospace/Defense - Major Diversified,Sweden
+28328,SAABF,,Saab AB (publ),PNK,,USA
+28416,0GWL.L,,Saab AB (publ),LSE,,United Kingdom
+96207,SDV.F,,Saab AB (publ),FRA,,France
+1646,NIBE-B.ST,,NIBE Industrier AB (publ),STO,,Sweden
+16938,NJBB.SG,,NIBE Industrier AB (publ),STU,,Germany
+28521,NDRBF,,NIBE Industrier AB (publ),PNK,,USA
+89956,NJBB.F,,NIBE Industrier AB (publ),FRA,,France
+1695,ITAB-B.ST,,Itab Shop Concept AB,STO,Business Services,Sweden
+29196,0QUB.L,,Itab Shop Concept AB,LSE,,United Kingdom
+1712,HUSQ-B.ST,x,Husqvarna AB (publ),STO,Machine Tools & Accessories,Sweden
+28132,HSQVY,,Husqvarna AB (publ),PNK,,USA
+28819,0GTR.L,,Husqvarna AB (publ),LSE,,United Kingdom
+28833,HUSQF,,Husqvarna AB (publ),PNK,,USA
+28978,HUSQ-A.ST,x,Husqvarna AB (publ),STO,Machine Tools & Accessories,Sweden
+29145,HUQVF,,Husqvarna AB (publ),PNK,,USA
+76952,HRZ.F,,Husqvarna AB (publ),FRA,,France
+77131,HUSQB.ST,,Husqvarna AB (publ),STO,,Sweden
+1710,HXGBY,,Hexagon AB,PNK,,USA
+1719,HEXA-B.ST,,Hexagon AB,STO,Scientific & Technical Instruments,Sweden
+28129,HXGBF,,Hexagon AB,PNK,,USA
+28494,0GRX.L,,Hexagon AB,LSE,,United Kingdom
+75021,HXGB.F,,Hexagon AB,FRA,,France
+1804,BEIA-B.ST,,Beijer Alma AB (publ),STO,Diversified Machinery,Sweden
+28815,0GX4.L,,Beijer Alma AB (publ),LSE,,United Kingdom
+1450,ASAZY,,ASSA ABLOY AB (publ),PNK,,USA
+1850,ASSA-B.ST,,ASSA ABLOY AB (publ),STO,General Building Materials,Sweden
+28201,ASAZF,,ASSA ABLOY AB (publ),PNK,,USA
+28287,0R87.L,,ASSA ABLOY AB (publ),LSE,,United Kingdom
+28679,0R87N.MX,,ASSA ABLOY AB (publ),MEX,Security & Protection Services,Mexico
+29131,ALZC.F,,ASSA ABLOY AB (publ),FRA,,France
+1952,AF-B.ST,,ÅF AB (publ),STO,Business Services,Sweden
+28628,0QUU.L,,ÅF AB (publ),LSE,,United Kingdom
+1506,ADW-A.TO,x,Andrew Peller Limited,TOR,Independent Oil & Gas,Canada
+1958,ADW-B.TO,x,Andrew Peller Limited,TOR,Beverages - Wineries & Distillers,Canada
+31004,ADWPF,,Andrew Peller Limited,PNK,,USA
+2003,ZZ-B.ST,,Zinzino AB,STO,Business Equipment,Sweden
+26493,ZNZNF,,Zinzino AB,PNK,,USA
+946,BBD-A.TO,x,Bombardier Inc.,TOR,Aerospace/Defense - Major Diversified,Canada
+2104,BBD-B.TO,x,Bombardier Inc.,TOR,Aerospace/Defense - Major Diversified,Canada
+3064,BDRBF,,Bombardier Inc.,PNK,,USA
+3465,BDRXF,,Bombardier Inc.,PNK,,USA
+22092,BBDBN.MX,,Bombardier Inc.,MEX,Aerospace/Defense - Major Diversified,Mexico
+42896,BBDB.DE,,Bombardier Inc.,FRA,,France
+42902,BBD-PB.TO,,Bombardier Inc.,TOR,,Canada
+42940,BBDB.F,,Bombardier Inc.,FRA,,France
+43009,BBDB.SW,,Bombardier Inc.,EBS,,Switzerland
+43053,BBD-PC.TO,,Bombardier Inc.,TOR,,Canada
+43408,BDRAF,,Bombardier Inc.,PNK,,USA
+43419,BDRPF,,Bombardier Inc.,PNK,,USA
+49973,BOMBF,,Bombardier Inc.,PNK,,USA
+3082,TS-B.TO,,Torstar Corporation,TOR,Conglomerates,Canada
+100106,TORSF,,Torstar Corporation,PNK,,USA
+3160,FBS-B.TO,,5Banc Split Inc.,TOR,,Canada
+3534,TPX-B.TO,x,Molson Coors Canada Inc.,TOR,Beverages - Brewers,Canada
+3535,TPX-A.TO,x,Molson Coors Canada Inc.,TOR,Beverages - Brewers,Canada
+5566,DII-A.TO,x,Dorel Industries Inc.,TOR,Home Furnishings & Fixtures,Canada
+5792,DII-B.TO,x,Dorel Industries Inc.,TOR,Home Furnishings & Fixtures,Canada
+60935,DIIBF,,Dorel Industries Inc.,PNK,,USA
+61926,DO4B.F,,Dorel Industries Inc.,FRA,,France
+88,NVO,,Novo Nordisk A/S,NYQ,Drug Manufacturers - Other,USA
+5898,NOVO-B.CO,,Novo Nordisk A/S,CPH,,Denmark
+17182,NOVA.DE,x,Novo Nordisk A/S,GER,Biotechnology,Germany
+61403,NOVC.DE,x,Novo Nordisk A/S,GER,,Germany
+61465,0QIU.L,,Novo Nordisk A/S,LSE,,United Kingdom
+61499,NOVC.F,,Novo Nordisk A/S,FRA,,France
+61630,NOVOB.SW,,Novo Nordisk A/S,EBS,,Switzerland
+90488,NONOF,,Novo Nordisk A/S,PNK,,USA
+90544,NOVA.F,,Novo Nordisk A/S,FRA,Biotechnology,France
+90574,NVON.MX,,Novo Nordisk A/S,MEX,Biotechnology,Mexico
+1478,AMKBY,,A.P. Møller - Mærsk A/S,PNK,,USA
+5926,MAERSK-B.CO,x,A.P. Møller - Mærsk A/S,CPH,,Denmark
+36086,AMKBF,,A.P. Møller - Mærsk A/S,PNK,,USA
+36087,AMKAF,,A.P. Møller - Mærsk A/S,PNK,,USA
+37926,DP4B.F,,A.P. Møller - Mærsk A/S,FRA,,France
+37996,DP4A.F,,A.P. Møller - Mærsk A/S,FRA,,France
+61495,MAERSK-A.CO,x,A.P. Møller - Mærsk A/S,CPH,,Denmark
+61550,0O77.L,,A.P. Møller - Mærsk A/S,LSE,,United Kingdom
+61585,0O76.L,,A.P. Møller - Mærsk A/S,LSE,,United Kingdom
+5552,DHXM,,DHX Media Ltd.,NMS,,USA
+5638,DMXHF,,DHX Media Ltd.,PNK,,USA
+6103,DHX-B.TO,x,DHX Media Ltd.,TOR,Entertainment - Diversified,Canada
+50662,DHX-A.TO,x,DHX Media Ltd.,TOR,Entertainment - Diversified,Canada
+60880,DMQHF,,DHX Media Ltd.,PNK,,USA
+6397,SVED-B.ST,,Svedbergs i Dalstorp AB,STO,General Building Materials,Sweden
+6483,RIAS-B.CO,,RIAS A/S,CPH,,Denmark
+1634,NVZMY,,Novozymes A/S,PNK,,USA
+1635,NVZMF,,Novozymes A/S,PNK,,USA
+6590,NZYM-B.CO,,Novozymes A/S,CPH,,Denmark
+61437,NZYMB.SW,,Novozymes A/S,EBS,,Switzerland
+61443,NZM2.SG,,Novozymes A/S,STU,,Germany
+61454,0Q4U.L,,Novozymes A/S,LSE,,United Kingdom
+61530,NZM2.F,,Novozymes A/S,FRA,,France
+6676,MDRNSUT-B.BO,,MODERN DENIM LTD.,BSE,,India
+6710,LL-B.CO,x,Land & Leisure A/S,CPH,,Denmark
+61562,LL-A.CO,x,Land & Leisure A/S,CPH,,Denmark
+7401,CJR-B.TO,,Corus Entertainment Inc.,TOR,Independent Oil & Gas,Canada
+7476,CJREF,,Corus Entertainment Inc.,PNK,,USA
+65039,9CO.F,,Corus Entertainment Inc.,FRA,,France
+7864,ORC-B.V,,Orca Exploration Group Inc.,VAN,Independent Oil & Gas,Canada
+18269,ORXGF,,Orca Exploration Group Inc.,PNK,,USA
+67054,ORC-A.V,,Orca Exploration Group Inc.,VAN,,Canada
+1748,ERCA.DE,,Telefonaktiebolaget LM Ericsson (publ),GER,Communication Equipment,Germany
+7045,ERIC,,Telefonaktiebolaget LM Ericsson (publ),NMS,,USA
+7546,ERIXF,,Telefonaktiebolaget LM Ericsson (publ),PNK,,USA
+8040,ERICB.ST,,Telefonaktiebolaget LM Ericsson (publ),STO,,Sweden
+8041,ERIC-B.ST,x,Telefonaktiebolaget LM Ericsson (publ),STO,Communication Equipment,Sweden
+8049,ERCB.DE,,Telefonaktiebolaget LM Ericsson (publ),GER,Communication Equipment,Germany
+30581,ERCA.F,,Telefonaktiebolaget LM Ericsson (publ),FRA,Communication Equipment,France
+65364,ERCG.DE,,Telefonaktiebolaget LM Ericsson (publ),GER,Communication Equipment,Germany
+65369,ERIBR.HE,,Telefonaktiebolaget LM Ericsson (publ),HEL,,Finland
+65391,ERCB.F,,Telefonaktiebolaget LM Ericsson (publ),FRA,Communication Equipment,France
+65394,0O87.L,,Telefonaktiebolaget LM Ericsson (publ),LSE,,United Kingdom
+65395,ERIC-A.ST,x,Telefonaktiebolaget LM Ericsson (publ),STO,Communication Equipment,Sweden
+65401,ERCG.F,,Telefonaktiebolaget LM Ericsson (publ),FRA,Communication Equipment,France
+65425,ERICB.SW,,Telefonaktiebolaget LM Ericsson (publ),EBS,,Switzerland
+65431,ERICN.MX,,Telefonaktiebolaget LM Ericsson (publ),MEX,Communication Equipment,Mexico
+8058,EPIS-B.ST,,Episurf Medical AB,STO,Medical Appliances & Equipment,Sweden
+28733,0QUT.L,,Episurf Medical AB,LSE,,United Kingdom
+8103,ELAN-B.ST,,Elanders AB (publ),STO,Publishing - Newspapers,Sweden
+1742,FGRPF,,Fingerprint Cards AB (publ),PNK,,USA
+9180,FING-B.ST,,Fingerprint Cards AB (publ),STO,Electronic Equipment,Sweden
+68128,FPQ.F,,Fingerprint Cards AB (publ),,,
+9280,BALD-B.ST,,Fastighets AB Balder (publ),STO,Property Management,Sweden
+28754,0Q78.L,,Fastighets AB Balder (publ),LSE,,United Kingdom
+29136,0H2Z.L,,Fastighets AB Balder (publ),LSE,,United Kingdom
+29214,BALD-PREF.ST,,Fastighets AB Balder (publ),STO,,Sweden
+9965,TVA-B.TO,,TVA GROUP Inc.,TOR,Broadcasting - TV,Canada
+10786,HM-B.ST,,H & M Hennes & Mauritz AB (publ),STO,,Sweden
+28134,HMSB.DE,,H & M Hennes & Mauritz AB (publ),GER,Textile - Apparel Clothing,Germany
+28136,HMRZF,,H & M Hennes & Mauritz AB (publ),PNK,,USA
+28138,HMB.ST,,H & M Hennes & Mauritz AB (publ),STO,,Sweden
+28281,0HBP.L,,H & M Hennes & Mauritz AB (publ),LSE,,United Kingdom
+29182,HNNMY,,H & M Hennes & Mauritz AB (publ),PNK,,USA
+75367,HMB.SW,,H & M Hennes & Mauritz AB (publ),EBS,,Switzerland
+75386,HMSB.F,,H & M Hennes & Mauritz AB (publ),FRA,Textile - Apparel Clothing,France
+10972,RECY-B.ST,,Recyctec Holding AB (publ),STO,,Sweden
+14520,KIRANSY-B.BO,,KIRAN SYNTEX LTD.,BSE,,India
+15294,KLIC-B.ST,,Klick Data AB (publ.),STO,,Sweden
+15525,TCK,,Teck Resources Limited,NYQ,,USA
+15711,TCK-B.TO,x,Teck Resources Limited,TOR,,Canada
+15745,TCK-A.TO,x,Teck Resources Limited,TOR,,Canada
+20020,TCKRF,,Teck Resources Limited,PNK,,USA
+99435,TCKN.MX,,Teck Resources Limited,MEX,,Mexico
+100203,TPT.F,,Teck Resources Limited,FRA,,France
+106128,TEKB.F,,Teck Resources Limited,FRA,,France
+16173,WCM-B.TO,x,Wilmington Capital Management Inc.,TOR,Asset Management,Canada
+16210,WCM-A.TO,x,Wilmington Capital Management Inc.,TOR,Asset Management,Canada
+16604,CCL-B.TO,x,CCL Industries Inc.,TOR,Packaging & Containers,Canada
+53529,CCL-A.TO,x,CCL Industries Inc.,TOR,Packaging & Containers,Canada
+53545,CCDBF,,CCL Industries Inc.,PNK,,USA
+53661,1C9.F,,CCL Industries Inc.,FRA,,France
+16692,NOLA-B.ST,,Nolato AB (publ),STO,Communication Equipment,Sweden
+28488,0OA9.L,,Nolato AB (publ),LSE,,United Kingdom
+89313,NBFB.SG,,Nolato AB (publ),STU,,Germany
+16602,NCC-A.TO,x,Newfoundland Capital Corporation Limited,TOR,Broadcasting - Radio,Canada
+16724,NCC-B.TO,x,Newfoundland Capital Corporation Limited,TOR,,Canada
+16725,NCC-B.ST,x,NCC AB,STO,General Contractors,Sweden
+28105,NCC-A.ST,x,NCC AB,STO,General Contractors,Sweden
+28970,0OFO.L,,NCC AB,LSE,,United Kingdom
+29042,0OFP.L,,NCC AB,LSE,,United Kingdom
+89327,NCGB.F,,NCC AB,FRA,,France
+16658,PCDAF,,Postmedia Network Canada Corp.,PNK,,USA
+16952,PNC-B.TO,x,Postmedia Network Canada Corp.,TOR,Industrial Metals & Minerals,Canada
+16953,PNC-A.TO,x,Postmedia Network Canada Corp.,TOR,,Canada
+17119,NSP-B.ST,,Nordic Service Partners Holding AB,STO,,Sweden
+90410,4NPB.F,,Nordic Service Partners Holding AB,FRA,,France
+17208,NN-B.ST,,Nordnet AB (publ),STO,,Sweden
+28870,0GTW.L,,Nordnet AB (publ),LSE,,United Kingdom
+90380,N6N.F,,Nordnet AB (publ),FRA,,France
+17315,NET-B.ST,,NetEnt AB (publ),STO,Multimedia & Graphics Software,Sweden
+29062,0R77.L,,NetEnt AB (publ),LSE,,United Kingdom
+17813,OEM-B.ST,,OEM International AB (publ),STO,Diversified Machinery,Sweden
+17949,FOI-B.ST,,Fenix Outdoor International AG,STO,,Sweden
+18497,OBOYA-BTA-B.ST,,OBOYA-BTA-B.ST,,,
+16178,QBR-A.TO,x,Quebecor Inc.,TOR,Wireless Communications,Canada
+18796,QBR-B.TO,x,Quebecor Inc.,TOR,Wireless Communications,Canada
+18887,QBCRF,,Quebecor Inc.,PNK,,USA
+19012,QBCAF,,Quebecor Inc.,PNK,,USA
+19413,QB3.F,,Quebecor Inc.,FRA,,France
+7836,Q-A.V,x,Questfire Energy Corp.,VAN,,Canada
+18974,Q-B.V,x,Questfire Energy Corp.,VAN,,Canada
+4446,RCI,,Rogers Communications Inc.,NYQ,Wireless Communications,USA
+19575,RCI-A.TO,x,Rogers Communications Inc.,TOR,Wireless Communications,Canada
+19578,RCI-B.TO,x,Rogers Communications Inc.,TOR,Wireless Communications,Canada
+94849,RCIAF,,Rogers Communications Inc.,PNK,,USA
+94887,RCIB.F,,Rogers Communications Inc.,FRA,,France
+4538,SJR,,Shaw Communications Inc.,NYQ,CATV Systems,USA
+20225,SJR-B.TO,,Shaw Communications Inc.,TOR,CATV Systems,Canada
+90771,SWC.F,,Shaw Communications Inc.,FRA,,France
+96926,SJR-A.V,,Shaw Communications Inc.,VAN,CATV Systems,Canada
+20545,TREL-B.ST,,Trelleborg AB,STO,Diversified Machinery,Sweden
+28487,0NL3.L,,Trelleborg AB,LSE,,United Kingdom
+29221,TBABF,,Trelleborg AB,PNK,,USA
+100017,TLLB.F,,Trelleborg AB,FRA,,France
+100283,TRELB.ST,,Trelleborg AB,STO,,Sweden
+20569,TEL2B.ST,,Tele2 AB (publ),STO,,Sweden
+20570,TEL2-B.ST,x,Tele2 AB (publ),STO,Wireless Communications,Sweden
+28069,TLTZY,,Tele2 AB (publ),PNK,,USA
+28070,TLTZF,,Tele2 AB (publ),PNK,,USA
+28073,TEL2-A.ST,x,Tele2 AB (publ),STO,Wireless Communications,Sweden
+28789,0QE6.L,,Tele2 AB (publ),LSE,,United Kingdom
+89346,NCYD.F,,Tele2 AB (publ),FRA,,France
+89376,NCYC.F,,Tele2 AB (publ),FRA,,France
+20625,UFLX-B.ST,,Uniflex AB (publ),STO,Staffing & Outsourcing Services,Sweden
+21922,VEND-B.ST,,hubbr AB (publ),,,
+77068,HUBR-B.ST,,hubbr AB (publ),STO,,Sweden
+22252,ABC-B.CR,x,"BANCO DEL CARIBE, C.A. BANCO UN",CCS,,Venezuela
+29146,ABC-A.CR,x,"BANCO DEL CARIBE, C.A. BANCO UN",CCS,,Venezuela
+22364,EOLU-B.ST,,Eolus Vind AB,STO,Diversified Utilities,Sweden
+65122,7EVB.F,,Eolus Vind AB,FRA,,France
+22553,NEVI-B.ST,,New Equity Venture International AB,STO,,Sweden
+22595,RABT-B.ST,,Viking Supply Ships AB (publ),,,
+98693,VSSAB-B.ST,,Viking Supply Ships AB (publ),STO,,Sweden
+22598,SV-B.CR,x,"INVERSIONES SELVA, C.A. CLASE '",CCS,,Venezuela
+98807,SV-A.CR,x,"INVERSIONES SELVA, C.A. CLASE '",CCS,,Venezuela
+22679,VICP-B.ST,x,Victoria Park AB (publ),STO,,Sweden
+29020,VICP-PREF.ST,,Victoria Park AB (publ),STO,,Sweden
+92309,VICP-A.ST,x,Victoria Park AB (publ),STO,,Sweden
+22735,VNS-B.CR,,VENASETA 'B,CCS,,Venezuela
+22875,STVA-B.ST,,Star Vault AB (publ),STO,,Sweden
+23114,WALL-B.ST,,Wallenstam AB (publ),STO,Real Estate Development,Sweden
+23585,WYA-B.ST,,WYA-B.ST,,,
+23850,NEWA-B.ST,,New Wave Group AB (publ),STO,Textile - Apparel Clothing,Sweden
+23992,NWG.F,,New Wave Group AB (publ),FRA,,France
+28714,0KIZ.L,,New Wave Group AB (publ),LSE,,United Kingdom
+25378,YILD-BTA-B.ST,,YILD-BTA-B.ST,,,
+26087,YILD-TR-B.ST,,YILD-TR-B.ST,,,
+26361,YILD-B.ST,,Yield Life Science AB,STO,,Sweden
+27766,AAP-B.ST,,Arc Aroma Pure AB (publ),STO,,Sweden
+27776,ELITE-B.CO,,Aarhus Elite A/S,CPH,,Denmark
+27903,PAAL-B.CO,,Per Aarsleff Holding A/S,CPH,,Denmark
+28026,SWOL-B.ST,,Swedol AB,STO,"Specialty Retail, Other",Sweden
+28033,LOOM-B.ST,,Loomis AB (publ),STO,Business Services,Sweden
+28788,LOIMF,,Loomis AB (publ),PNK,,USA
+29148,0JYZ.L,,Loomis AB (publ),LSE,,United Kingdom
+85616,K90.F,,Loomis AB (publ),FRA,,France
+28035,LATO-B.ST,,Investment AB Latour (publ),STO,Asset Management,Sweden
+28814,0NCQ.L,,Investment AB Latour (publ),LSE,,United Kingdom
+28039,IAR-B.ST,,IAR Systems Group AB (publ),STO,,Sweden
+28802,IARSF,,IAR Systems Group AB (publ),PNK,,USA
+77302,NC91.F,,IAR Systems Group AB (publ),FRA,,France
+28068,TRAN-B.ST,,Transferator AB,STO,,Sweden
+28074,TAGM-B.ST,,TagMaster AB (publ),STO,Communication Equipment,Sweden
+28078,SWEC-B.ST,,Sweco AB (publ),STO,General Contractors,Sweden
+28079,SWEC-A.ST,,Sweco AB (publ),STO,General Contractors,Sweden
+28558,0H0G.L,,Sweco AB (publ),LSE,,United Kingdom
+28082,SVOL-B.ST,,Svolder AB,STO,Asset Management,Sweden
+28946,SVOL-A.ST,,Svolder AB,STO,Asset Management,Sweden
+28084,SSAB-B.ST,,SSAB AB,STO,Steel & Iron,Sweden
+28085,SSAB-A.ST,,SSAB AB,STO,Steel & Iron,Sweden
+28086,SSAAY,,SSAB AB,PNK,,USA
+28475,SSABBH.HE,,SSAB AB,HEL,,Finland
+28477,SSAAF,,SSAB AB,PNK,,USA
+28497,0MHZ.L,,SSAB AB,LSE,,United Kingdom
+28690,0KII.L,,SSAB AB,LSE,,United Kingdom
+29110,SSABAH.HE,,SSAB AB,HEL,,Finland
+97596,SKWA.F,,SSAB AB,FRA,,France
+98294,SSABA.ST,,SSAB AB,STO,,Sweden
+28087,SOF-B.ST,,Softronic AB,STO,Business Services,Sweden
+96427,SF7.F,,Softronic AB,FRA,,France
+1328,SKFRY,,SKF AB,PNK,,USA
+28027,SKUFF,,SKF AB,PNK,,USA
+28088,SKF-B.ST,,SKF AB,STO,Machine Tools & Accessories,Sweden
+28530,SKF-A.ST,,SKF AB,STO,Machine Tools & Accessories,Sweden
+28555,0NWX.L,,SKF AB,LSE,,United Kingdom
+28678,0NWW.L,,SKF AB,LSE,,United Kingdom
+97606,SKFB.ST,,SKF AB,STO,,Sweden
+97614,SKFB.F,,SKF AB,FRA,,France
+97645,SKFA.F,,SKF AB,FRA,,France
+28091,SECU-B.ST,,Securitas AB,STO,Security & Protection Services,Sweden
+28094,SCTBF,,Securitas AB,PNK,,USA
+28319,SCTBY,,Securitas AB,PNK,,USA
+28985,0IAH.L,,Securitas AB,LSE,,United Kingdom
+105971,SECUB.ST,,Securitas AB,STO,,Sweden
+105973,S7MB.F,,Securitas AB,FRA,Security & Protection Services,France
+28093,SEAB-B.ST,,Skånska Energi AB,STO,,Sweden
+28097,PRCO-B.ST,,Precio Fishbone AB (publ),STO,Technical & System Software,Sweden
+28099,PEAB-B.ST,,Peab AB,STO,General Contractors,Sweden
+28850,0MHT.L,,Peab AB,LSE,,United Kingdom
+92876,PEKB.F,,Peab AB,FRA,,France
+28110,MSC-B.ST,,MSC Group AB,STO,Business Services,Sweden
+28120,LIFCO-B.ST,,Lifco AB,STO,,Sweden
+28695,0R4P.L,,Lifco AB,LSE,,United Kingdom
+105051,1L3.F,,Lifco AB,FRA,,France
+28036,IVSXF,,Investor AB,PNK,,USA
+28121,IVSBY,,Investor AB,PNK,,USA
+28123,INVE-B.ST,x,Investor AB,STO,Asset Management,Sweden
+28301,IVSBF,,Investor AB,PNK,,USA
+28396,INVE-A.ST,x,Investor AB,STO,Asset Management,Sweden
+28604,0NC6.L,,Investor AB,LSE,,United Kingdom
+28666,0NC5.L,,Investor AB,LSE,,United Kingdom
+79940,IVSA.F,,Investor AB,FRA,,France
+79966,IVSB.F,,Investor AB,FRA,,France
+105004,INVEB.ST,,Investor AB,STO,,Sweden
+28140,HIFA-B.ST,,Hifab Group AB (publ),STO,General Contractors,Sweden
+28143,GHUS-B.ST,,Götenehus Group AB (publ),STO,,Sweden
+1390,GNGBY,,Getinge AB,PNK,,USA
+28041,GNGBF,,Getinge AB,PNK,,USA
+28144,GETI-B.ST,,Getinge AB,STO,Medical Instruments & Supplies,Sweden
+28855,0GZV.L,,Getinge AB,LSE,,United Kingdom
+71842,GTN.F,,Getinge AB,FRA,,France
+71848,GETIB.ST,,Getinge AB,STO,,Sweden
+28152,ELOS-B.ST,,Elos Medtech AB (publ),STO,Medical Instruments & Supplies,Sweden
+28154,EKTAY,,Elekta AB (publ),PNK,,USA
+28155,EKTAF,,Elekta AB (publ),PNK,,USA
+28156,EKTA-B.ST,,Elekta AB (publ),STO,Medical Appliances & Equipment,Sweden
+28827,0O5H.L,,Elekta AB (publ),LSE,,United Kingdom
+63738,EJXB.F,,Elekta AB (publ),FRA,,France
+28159,DMYD-B.ST,,Diamyd Medical AB (publ),STO,,Sweden
+28162,DEFL-B.ST,,Deflamo AB,STO,Specialty Chemicals,Sweden
+28164,CRAD-B.ST,,C-Rad AB,STO,Medical Laboratories & Research,Sweden
+28166,CONS-B.ST,,Consilium AB (publ),STO,Scientific & Technical Instruments,Sweden
+28170,CLA-B.ST,,Cloetta AB (publ),STO,Confectioners,Sweden
+28599,0N7X.L,,Cloetta AB (publ),LSE,,United Kingdom
+56460,0CL.F,,Cloetta AB (publ),FRA,,France
+28171,CI-B.ST,,Cell Impact AB (publ),STO,,Sweden
+28172,CCOR-B.ST,,Concordia Maritime AB (publ),STO,Shipping,Sweden
+28178,BRG-B.ST,,Bergs Timber AB (publ),STO,"Lumber, Wood Production",Sweden
+28177,BTSNF,,Betsson AB,PNK,,USA
+28188,BETS-B.ST,,Betsson AB,STO,Gaming Activities,Sweden
+29120,0R7X.L,,Betsson AB,LSE,,United Kingdom
+44318,V72C.F,,Betsson AB,FRA,,France
+28190,BAHN-B.ST,,Bahnhof AB (publ),STO,,Sweden
+1837,ATLCF,,Atlas Copco AB,PNK,,USA
+28050,ATLCY,,Atlas Copco AB,PNK,Credit Services,USA
+28194,ATTLF,,Atlas Copco AB,PNK,,USA
+28195,ATLKY,,Atlas Copco AB,PNK,,USA
+28196,ATLKF,,Atlas Copco AB,PNK,,USA
+28197,ATCO-B.ST,x,Atlas Copco AB,STO,Diversified Machinery,Sweden
+28198,ATCO-A.ST,x,Atlas Copco AB,STO,Diversified Machinery,Sweden
+28325,0R82.L,,Atlas Copco AB,LSE,,United Kingdom
+29589,ACOFN.MX,,Atlas Copco AB,MEX,Diversified Machinery,Mexico
+29818,ACOF.F,,Atlas Copco AB,FRA,,France
+29860,ACOG.F,,Atlas Copco AB,FRA,,France
+40207,ATCOA.ST,,Atlas Copco AB,STO,,Sweden
+28283,SKIS-B.ST,,SkiStar AB (publ),STO,"Recreational Goods, Other",Sweden
+28708,0H34.L,,SkiStar AB (publ),LSE,,United Kingdom
+28291,ICTA-B.ST,,Intellecta AB (publ),STO,Business Services,Sweden
+28349,HEBA-B.ST,,HEBA Fastighets AB (publ),STO,,Sweden
+28361,ECO-B.ST,,EcoRub AB,STO,,Sweden
+16366,MVRBF,,Medivir AB (publ),PNK,,USA
+28363,MVIR-B.ST,,Medivir AB (publ),STO,Biotechnology,Sweden
+28647,0GP7.L,,Medivir AB (publ),LSE,,United Kingdom
+88798,MVR.F,,Medivir AB (publ),FRA,,France
+28366,AGES-B.ST,,AGES Industri AB (publ),STO,,Sweden
+28372,LAGR-B.ST,,Lagercrantz Group AB (publ),STO,Information Technology Services,Sweden
+28747,0RB7.L,,Lagercrantz Group AB (publ),LSE,,United Kingdom
+28386,ADDT-B.ST,,Addtech AB (publ.),STO,Industrial Equipment Wholesale,Sweden
+29138,0QI7.L,,Addtech AB (publ.),LSE,,United Kingdom
+28398,PROF-B.ST,,ProfilGruppen AB,STO,Metal Fabrication,Sweden
+28410,CBTT-B.ST,,Christian Berner Tech Trade AB (publ),STO,,Sweden
+28419,VRG-B.ST,,Venue Retail Group AB,STO,Apparel Stores,Sweden
+28423,EURI-B.ST,,European Institute of Science AB,STO,,Sweden
+28430,RAY-B.ST,,RaySearch Laboratories AB (publ),STO,Technical & System Software,Sweden
+28760,RSLBF,,RaySearch Laboratories AB (publ),PNK,,USA
+28950,0GRZ.L,,RaySearch Laboratories AB (publ),LSE,,United Kingdom
+28442,ENVI-B.ST,,Envirologic AB (publ).,STO,,Sweden
+28445,CLS-B.ST,,Clinical Laserthermia Systems AB (publ),STO,Medical Appliances & Equipment,Sweden
+28466,MSAB-B.ST,,Micro Systemation AB,STO,,Sweden
+15420,KLOV-PREF.ST,,Klövern AB (publ),STO,,Sweden
+28486,KLOV-B.ST,x,Klövern AB (publ),STO,,Sweden
+28645,KLOV-A.ST,x,Klövern AB (publ),STO,,Sweden
+28890,0R4G.L,,Klövern AB (publ),LSE,,United Kingdom
+78199,IHY3.F,,Klövern AB (publ),FRA,,France
+28496,PREV-B.ST,,Prevas AB,STO,Information Technology Services,Sweden
+28501,PALS-B.ST,,Pallas Group AB (publ),STO,Shipping,Sweden
+28507,SJR-B.ST,,SJR In Scandinavia AB,STO,Staffing & Outsourcing Services,Sweden
+28508,NTEK-B.ST,,Novotek AB,STO,Technical & System Software,Sweden
+28519,USE-B.ST,,US Energy Group AB,STO,,Sweden
+28336,RTOBF,,Ratos AB,PNK,,USA
+28491,RATO-A.ST,x,Ratos AB,STO,Asset Management,Sweden
+28549,RATO-B.ST,x,Ratos AB,STO,Asset Management,Sweden
+28889,RATO-PREF.ST,,Ratos AB,STO,,Sweden
+29097,0KBQ.L,,Ratos AB,LSE,,United Kingdom
+94793,RAZB.F,,Ratos AB,FRA,,France
+28586,HOME-B.ST,,HomeMaid AB (publ),STO,,Sweden
+28598,ORTI-B.ST,x,Ortivus AB (publ),STO,Medical Instruments & Supplies,Sweden
+28664,ORTI-A.ST,x,Ortivus AB (publ),STO,Medical Instruments & Supplies,Sweden
+28609,LAMM-B.ST,,Lammhults Design Group AB (publ),STO,Home Furnishings & Fixtures,Sweden
+28611,RECI-B.ST,,Recipharm AB (publ),STO,,Sweden
+29012,0QSD.L,,Recipharm AB (publ),LSE,,United Kingdom
+28614,CHER-B.ST,,Cherry AB (publ).,STO,,Sweden
+28633,ALON-B.ST,,Archelon AB (publ),STO,,Sweden
+28649,AMH2-B.ST,,Amhult 2 Ab,STO,,Sweden
+28322,0QDX.L,,AB Sagax,LSE,,United Kingdom
+28480,SAGA-A.ST,x,AB Sagax,STO,,Sweden
+28663,SAGA-B.ST,x,AB Sagax,STO,,Sweden
+28691,SAGA-PREF.ST,,AB Sagax,STO,,Sweden
+29052,EFEA.SG,,AB Sagax,STU,,Germany
+28665,ORT-B.ST,,Ortoma AB,STO,,Sweden
+28676,DEMI-B.ST,,Delta Minerals AB (publ),STO,,Sweden
+28187,BGPBF,,BTS Group AB (publ),PNK,,USA
+28685,BTS-B.ST,,BTS Group AB (publ),STO,Staffing & Outsourcing Services,Sweden
+28687,CEFO-B.ST,,Cefour Wine & Beverage Partihandel AB (publ),STO,,Sweden
+28722,AVT-B.ST,,AVTECH Sweden AB (publ),STO,,Sweden
+28587,MTG-A.ST,x,Modern Times Group Mtg AB,STO,Broadcasting - TV,Sweden
+28631,0GXJ.L,,Modern Times Group Mtg AB,LSE,,United Kingdom
+28728,MTG-B.ST,x,Modern Times Group Mtg AB,STO,Broadcasting - TV,Sweden
+88132,MTGB.ST,,Modern Times Group Mtg AB,STO,,Sweden
+88175,MO7.F,,Modern Times Group Mtg AB,FRA,,France
+28736,HAV-B.ST,,Havsfrun Investment AB (publ),STO,Investment Brokerage - National,Sweden
+28739,LATF-B.ST,,Latvian Forest Company AB (publ),STO,,Sweden
+28770,PCOM-B.ST,,Precomp Solutions AB,STO,Metal Fabrication,Sweden
+28785,EMP-B.ST,,Empire AB (publ),STO,,Sweden
+28800,BACTI-B.ST,,Bactiguard Holding AB (publ),STO,,Sweden
+28808,AVEG-B.ST,,Avega Group AB (publ),STO,Information Technology Services,Sweden
+28817,VIT-B.ST,,Vitec Software Group AB,STO,Technical & System Software,Sweden
+28825,MROX-B.ST,x,MediRox AB (publ),STO,,Sweden
+28972,MROX-A.ST,x,MediRox AB (publ),STO,,Sweden
+28842,IDL-B.ST,,IDL Biotech AB (publ),STO,,Sweden
+28126,IFS-A.ST,x,"Industrial and Financial Systems, IFS AB (publ)",STO,,Sweden
+28848,IFS-B.ST,x,"Industrial and Financial Systems, IFS AB (publ)",STO,,Sweden
+28933,0GWV.L,,"Industrial and Financial Systems, IFS AB (publ)",LSE,,United Kingdom
+28878,REJL-B.ST,,Rejlers AB,STO,Business Services,Sweden
+28902,OBOYA-B.ST,,Oboya Horticulture Industries AB,STO,,Sweden
+28921,ABFAST-B.ST,,Aktiebolaget Fastator (publ),STO,,Sweden
+34601,REHA-B.ST,,Aktiebolaget Fastator (publ),STO,,Sweden
+28935,POOL-B.ST,,Poolia AB (publ),STO,Staffing & Outsourcing Services,Sweden
+28511,0H14.L,,Net Insight AB (publ),LSE,,United Kingdom
+28947,NETI-B.ST,,Net Insight AB (publ),STO,Communication Equipment,Sweden
+89659,NSGB.F,,Net Insight AB (publ),FRA,,France
+28954,MEAB-B.ST,,Malmbergs Elektriska AB (publ),STO,Diversified Electronics,Sweden
+28963,TRAC-B.ST,,AB Traction,STO,Asset Management,Sweden
+28974,MACK-B.ST,,Mackmyra Svensk Whisky AB (publ),STO,,Sweden
+28046,BIOGY,,BioGaia AB,PNK,,USA
+28752,0GTN.L,,BioGaia AB,LSE,,United Kingdom
+28977,BIOG-B.ST,,BioGaia AB,STO,Drug Manufacturers - Major,Sweden
+29132,BGAIF,,BioGaia AB,PNK,,USA
+45099,BGL.F,,BioGaia AB,FRA,,France
+28109,MSON-A.ST,x,Midsona AB (publ),STO,Personal Products,Sweden
+29006,MSON-B.ST,x,Midsona AB (publ),STO,Personal Products,Sweden
+29041,MEDR-B.ST,,MediRätt AB (publ),STO,,Sweden
+29059,CHAL-B.ST,,Challenger Mobile AB (publ),STO,,Sweden
+29060,SHEL-B.ST,,Shelton Petroleum AB (publ),STO,,Sweden
+29063,DURC-B.ST,,Duroc AB (publ),STO,Diversified Machinery,Sweden
+62232,DRC.F,,Duroc AB (publ),FRA,,France
+29076,TRUE-B.ST,,True Heading AB,STO,,Sweden
+1211,ELUXY,,AB Electrolux (publ),PNK,,USA
+28150,ELUX-A.ST,x,AB Electrolux (publ),STO,Electronic Equipment,Sweden
+28632,0MDT.L,,AB Electrolux (publ),LSE,,United Kingdom
+28680,ELUXF,,AB Electrolux (publ),PNK,,USA
+29085,ELUX-B.ST,x,AB Electrolux (publ),STO,Electronic Equipment,Sweden
+63836,ELX.F,,AB Electrolux (publ),FRA,,France
+64110,ELUXB.ST,,AB Electrolux (publ),STO,,Sweden
+29106,DMAB-B.ST,,DMAB-B.ST,STO,,Sweden
+29111,RTIM-B.ST,,RTIM-B.ST,STO,,Sweden
+29129,AJA-B.ST,,Byggmästare Anders J Ahlström Holding AB (publ),STO,,Sweden
+28113,MIDW-A.ST,x,Midway Holding AB,STO,Conglomerates,Sweden
+29142,MIDW-B.ST,x,Midway Holding AB,STO,Conglomerates,Sweden
+28174,CAT-A.ST,,Catella AB (publ),STO,Asset Management,Sweden
+28657,SKWB.SG,,Catella AB (publ),STU,,Germany
+29151,CAT-B.ST,,Catella AB (publ),STO,Asset Management,Sweden
+29152,PROE-B.ST,,Proffice AB (Publ),STO,,Sweden
+29195,0OAE.L,,Proffice AB (Publ),LSE,,United Kingdom
+29189,KABE-B.ST,,KABE AB (publ.),STO,"Recreational Goods, Other",Sweden
+29190,LLSW-B.ST,,LightLab Sweden AB,STO,Electronic Equipment,Sweden
+29199,SCOR-B.ST,,Switchcore AB(Publ.),,,
+29149,0N5E.L,,Acando AB (publ.),LSE,,United Kingdom
+29225,ACAN-B.ST,,Acando AB (publ.),STO,Information Technology Services,Sweden
+29753,FRTB.F,,Acando AB (publ.),FRA,,France
+28100,PCRBF,,Pricer AB (publ),PNK,,USA
+28686,PCRBY,,Pricer AB (publ),PNK,,USA
+28865,0H38.L,,Pricer AB (publ),LSE,,United Kingdom
+29228,PRIC-B.ST,,Pricer AB (publ),STO,Business Equipment,Sweden
+105755,PRRB.F,,Pricer AB (publ),FRA,,France
+29021,0QIA.L,,Platzer Fastigheter Holding AB (publ),LSE,,United Kingdom
+29229,PLAZ-B.ST,,Platzer Fastigheter Holding AB (publ),STO,,Sweden
+29236,STEF-B.ST,,Stendörren Fastigheter AB (publ),STO,,Sweden
+28128,HXPLF,,Hexpol AB (Publ),PNK,,USA
+29216,0R7O.L,,Hexpol AB (Publ),LSE,,United Kingdom
+29240,HPOL-B.ST,,Hexpol AB (Publ),STO,Specialty Chemicals,Sweden
+75063,4QT1.F,,Hexpol AB (Publ),FRA,,France
+30005,ALIF-B.ST,,AddLife AB (publ),STO,,Sweden
+30017,ADVPETR-B.BO,,Advance Petrochemicals Ltd.,BSE,,India
+30526,ANOD-B.ST,,Addnode Group AB (publ),STO,Information Technology Services,Sweden
+31350,AR7B.F,,Addnode Group AB (publ),FRA,,France
+30961,ADDV-B.ST,x,ADDvise Group AB (publ),STO,,Sweden
+102688,ADDV-A.ST,x,ADDvise Group AB (publ),STO,,Sweden
+31027,ADMCAP-B.CO,,Admiral Capital A/S,CPH,,Denmark
+32669,AGORA-PREF.ST,,A Group Of Retail Assets Sweden AB (publ),STO,,Sweden
+33006,AGORA-B.ST,,A Group Of Retail Assets Sweden AB (publ),STO,,Sweden
+1151,SCA-A.ST,x,Svenska Cellulosa Aktiebolaget SCA (publ),STO,Personal Products,Sweden
+28565,SCA.DE,,Svenska Cellulosa Aktiebolaget SCA (publ),GER,,Germany
+34504,SVCBY,,Svenska Cellulosa Aktiebolaget SCA (publ),PNK,,USA
+34505,SVCBF,,Svenska Cellulosa Aktiebolaget SCA (publ),PNK,,USA
+34507,SCA-B.ST,x,Svenska Cellulosa Aktiebolaget SCA (publ),STO,Personal Products,Sweden
+34623,0MCK.L,,Svenska Cellulosa Aktiebolaget SCA (publ),LSE,,United Kingdom
+34795,0MCJ.L,,Svenska Cellulosa Aktiebolaget SCA (publ),LSE,,United Kingdom
+54139,SCAB.SW,,Svenska Cellulosa Aktiebolaget SCA (publ),EBS,,Switzerland
+54371,SCA.F,,Svenska Cellulosa Aktiebolaget SCA (publ),FRA,,France
+54530,SCAB.ST,,Svenska Cellulosa Aktiebolaget SCA (publ),STO,,Sweden
+34517,SECT-B.ST,,Sectra AB (publ),STO,Medical Appliances & Equipment,Sweden
+63063,ECRC.F,,Sectra AB (publ),FRA,,France
+34518,HOLM-B.ST,x,Holmen Aktiebolag (publ),STO,Paper & Paper Products,Sweden
+34519,HOLM-A.ST,x,Holmen Aktiebolag (publ),STO,Paper & Paper Products,Sweden
+34520,HLMNF,,Holmen Aktiebolag (publ),PNK,,USA
+34764,0NBO.L,,Holmen Aktiebolag (publ),LSE,,United Kingdom
+34786,HLMNY,,Holmen Aktiebolag (publ),PNK,,USA
+76703,HL9B.F,,Holmen Aktiebolag (publ),FRA,,France
+289211,ABFAST-B.ST,,Aktiebolaget Fastator (publ),STO,,Sweden
+346011,REHA-B.ST,,Aktiebolaget Fastator (publ),STO,,Sweden
+35037,ALSAMRN-B.BO,,ALSA MARINE & HARVESTS LTD.,BSE,,India
+35075,ALLG-B.ST,,Allgon AB (publ),STO,,Sweden
+96251,SMAQ-B.ST,,Allgon AB (publ),,,
+35093,ASIANAL-B.BO,,ASIAN ALLOYS LTD.,BSE,,India
+34544,AKABY,,ALK-Abelló A/S,PNK,,USA
+34614,AKBLF,,ALK-Abelló A/S,PNK,,USA
+35212,ALK-B.CO,,ALK-Abelló A/S,CPH,,Denmark
+35722,4AJ.F,,ALK-Abelló A/S,FRA,,France
+35762,0OIR.L,,ALK-Abelló A/S,LSE,,United Kingdom
+35562,ALPININ-B.BO,,ALPINE INDUSTRIES LTD.,BSE,,India
+35673,ALANGMR-B.BO,,ALANG MARINE LTD.,BSE,,India
+35961,ALCOBMT-B.BO,,ALCOBEX METALS LTD.,BSE,,India
+36483,AM-B.CO,,Andersen & Martini A/S,CPH,,Denmark
+36441,0R4L.L,,Ambu A/S,LSE,,United Kingdom
+36588,AMBU-B.CO,,Ambu A/S,CPH,,Denmark
+36994,ARAM-B.ST,,ARAM-B.ST,,,
+36985,CSW-A.TO,,Corby Spirit and Wine Limited,TOR,,Canada
+37016,CRBBF,,Corby Spirit and Wine Limited,PNK,,USA
+37179,CBYDF,,Corby Spirit and Wine Limited,PNK,,USA
+37353,CSW-B.TO,,Corby Spirit and Wine Limited,TOR,,Canada
+37797,APSSTAR-B.BO,,APSSTAR-B.BO,,,
+38961,ARKIL-B.CO,,Arkil Holding A/S,CPH,,Denmark
+39757,CAM-B.ST,,Consensus Asset Management AB B,STO,,Sweden
+29071,0IHM.L,,Atrium Ljungberg AB (publ),LSE,,United Kingdom
+40521,ATRLJ-B.ST,,Atrium Ljungberg AB (publ),STO,,Sweden
+41658,CRHVF,,Chorus Aviation Inc.,PNK,,USA
+41659,CHR-B.TO,x,Chorus Aviation Inc.,TOR,,Canada
+41707,CHRVF,,Chorus Aviation Inc.,PNK,,USA
+41748,CHR-A.TO,x,Chorus Aviation Inc.,TOR,,Canada
+41826,AV-B.L,,AVIVA PLC 8 3/8% CUM IRRD PRF #,LSE,,United Kingdom
+42584,IBT-B.ST,,Infant Bacterial Therapeutics AB (publ),STO,,Sweden
+43625,BEK-B.TO,,The Becker Milk Company Limited,TOR,Real Estate Development,Canada
+44375,BERLIV-B.CO,,Berlin IV A/S,,,
+47138,BIGG-B.ST,,Biotech-IgG AB,STO,,Sweden
+3538,TMI.TO,,TriMetals Mining Inc.,TOR,,Canada
+16296,TMIBF,,TriMetals Mining Inc.,PNK,,USA
+47652,TMI-B.TO,,TriMetals Mining Inc.,TOR,,Canada
+87788,SS7A.SG,,TriMetals Mining Inc.,STU,,Germany
+100065,TMIAF,,TriMetals Mining Inc.,PNK,,USA
+47922,BLUBLND-B.BO,,Blue Blends (India) Ltd.,BSE,,India
+49991,SAURAPB-B.BO,,SAURASHTRA PAPER & BOARD MILLS,BSE,,India
+50039,BOCON-B.CO,,BoConcept Holding A/S,CPH,,Denmark
+50303,BORD-B.CO,,F.E. Bording A/S,CPH,,Denmark
+50363,DBP-B.ST,,Double Bond Pharmaceutical Int.,STO,,Sweden
+50449,BP-B.L,,BP PLC 9% CUM 2ND PRF #1,LSE,,United Kingdom
+50703,BRIN-B.ST,,Brinova Fastigheter AB (publ),STO,Property Management,Sweden
+50775,HARB-B.CO,,Harboes Bryggeri A/S,CPH,,Denmark
+18235,OVI-A.TO,x,Ovivo Inc.,TOR,,Canada
+51662,OVI-B.TO,x,Ovivo Inc.,TOR,,Canada
+86125,LVGAF,,Ovivo Inc.,PNK,,USA
+91890,7GL.F,,Ovivo Inc.,FRA,,France
+6499,RAY-A.TO,x,Stingray Digital Group Inc.,TOR,,Canada
+52514,RAY-B.TO,x,Stingray Digital Group Inc.,TOR,,Canada
+56285,CXA-B.TO,,Consolidated HCI Holdings Corporation,TOR,Real Estate Development,Canada
+56328,RII-B.V,x,Richco Investors Inc.,VAN,,Canada
+95063,RII-K.V,x,Richco Investors Inc.,VAN,,Canada
+56394,CLS-TR-B.ST,,Clinical Laserthermia Systems A,STO,,Sweden
+56467,CLS-BTA-B.ST,,Clinical Laserthermia Systems A,STO,,Sweden
+56409,#NAME?,,"TORSTAR CORP., CL. B, NV",TOR,,Canada
+1323,TCL-A.TO,x,Transcontinental Inc.,TOR,Publishing - Newspapers,Canada
+20575,TCLCF,,Transcontinental Inc.,PNK,,USA
+56413,TCL-B.TO,x,Transcontinental Inc.,TOR,Publishing - Newspapers,Canada
+99386,TCLAF,,Transcontinental Inc.,PNK,,USA
+563941,CLS-TR-B.ST,,Clinical Laserthermia Systems A,STO,,Sweden
+564671,CLS-BTA-B.ST,,Clinical Laserthermia Systems A,STO,,Sweden
+56476,CLINE-B.ST,,Cline Scientific AB,STO,,Sweden
+58379,RE-B.L,,R.E.A. HOLDINGS PLC 9% CUM PRF,LSE,,United Kingdom
+58833,ICP-B.CR,,"INVERSIONES CRECEPYMES, C.A. CL",CCS,,Venezuela
+59934,DATARSW-B.BO,,DATAR SWITCHGEAR LTD.,BSE,,India
+28299,0R80.L,,D. Carnegie & Co AB (publ),LSE,,United Kingdom
+60304,DCAR-B.ST,,D. Carnegie & Co AB (publ),STO,Hospitals,Sweden
+60643,DEWNTYR-B.BO,,DEWAN TYRES LTD.,BSE,,India
+60735,DEMI-BTA-2-B.ST,,DEMI-BTA-2-B.ST,,,
+61230,DMYD-TR-B.ST,,DMYD-TR-B.ST,,,
+61355,DMYD-BTA-B.ST,,DMYD-BTA-B.ST,,,
+53407,CBHD.DE,,Coloplast A/S,GER,,Germany
+53450,CBHD.F,,Coloplast A/S,FRA,,France
+56262,CLPBY,,Coloplast A/S,PNK,,USA
+56263,CLPBF,,Coloplast A/S,PNK,,USA
+61396,COLO-B.CO,,Coloplast A/S,CPH,,Denmark
+61429,0QBON.MX,,Coloplast A/S,MEX,Medical Instruments & Supplies,Mexico
+61432,COLOB.SW,,Coloplast A/S,EBS,,Switzerland
+61489,0QBO.L,,Coloplast A/S,LSE,,United Kingdom
+61405,LUXOR-B.CO,,Investeringsselskabet Luxor A/S,CPH,,Denmark
+61420,IMAIL-B.CO,,InterMail A/S,CPH,,Denmark
+61427,ROCK-A.CO,x,Rockwool International A/S,CPH,,Denmark
+61462,ROCK-B.CO,x,Rockwool International A/S,CPH,,Denmark
+61606,R90.F,,Rockwool International A/S,FRA,,France
+61607,0M0A.L,,Rockwool International A/S,LSE,,United Kingdom
+95169,RKWBF,,Rockwool International A/S,PNK,,USA
+61470,KLEE-B.CO,,Brd. Klee A/S,CPH,,Denmark
+61481,GERHSP-B.CO,,German High Street Properties A/S,CPH,,Denmark
+61483,MIGA-B.CO,,Svejsemaskinefabrikken Migatronic A/S,CPH,,Denmark
+61453,SIF.CO,,Silkeborg IF Invest A/S,CPH,,Denmark
+61491,SIF-B.CO,,Silkeborg IF Invest A/S,CPH,,Denmark
+61496,EGE-B.CO,,egetæpper a/s,CPH,,Denmark
+61500,FLUG-B.CO,,Flügger A/S,CPH,,Denmark
+61509,NTR-B.CO,,NTR Holding A/S,CPH,,Denmark
+61494,HOEJ-A.CO,x,Højgaard Holding A/S,CPH,,Denmark
+61511,HOEJ-B.CO,x,Højgaard Holding A/S,CPH,,Denmark
+61533,GYLD-B.CO,x,Gyldendal A/S,CPH,,Denmark
+61564,GYLD-A.CO,x,Gyldendal A/S,CPH,,Denmark
+61638,0O3W.L,,Gyldendal A/S,LSE,,United Kingdom
+61536,AURI-B.CO,,Auriga Industries A/S,CPH,,Denmark
+26905,ZVR.F,,Solar A/S,FRA,,France
+61436,0G33.L,,Solar A/S,LSE,,United Kingdom
+61539,SOLAR-B.CO,,Solar A/S,CPH,,Denmark
+61613,MT-B.CO,,Monberg & Thorsen A/S,CPH,,Denmark
+61616,RBLN-B.CO,,Roblon A/S,CPH,,Denmark
+61643,EXP-B.CO,,Expedit A/S,CPH,,Denmark
+62607,DYNIDUS-B.BO,,DYNAVOX INDUSTRIES LTD.,BSE,,India
+62895,EASY-B.ST,,EasyFill AB B,STO,,Sweden
+68286,NGRJFIN-B.BO,,NAGARJUNA FINANCE LTD.,BSE,,India
+68532,PRMRVNY-B.BO,,PREMIER VINYL FLOORING LTD.,BSE,,India
+68820,PATHEJA-B.BO,,PATHEJA-B.BO,,,
+69894,SLOTT-B.ST,x,Slottsviken Fastighetsaktiebola,STO,,Sweden
+69912,SLOTT-A.ST,x,Slottsviken Fastighetsaktiebola,STO,,Sweden
+70399,FVI-A.CR,x,FONDO DE VALORES INMOBILIARIOS,CCS,,Venezuela
+70402,FVI-B.CR,x,FONDO DE VALORES INMOBILIARIOS,CCS,,Venezuela
+74215,IGLFXPL-B.BO,,INDO GULF INDUSTRIES LTD.,BSE,,India
+1567,SVNLF,,Svenska Handelsbanken AB (publ),PNK,,USA
+28444,0R7S.L,,Svenska Handelsbanken AB (publ),LSE,,United Kingdom
+28502,0R7R.L,,Svenska Handelsbanken AB (publ),LSE,,United Kingdom
+29016,SVNLY,,Svenska Handelsbanken AB (publ),PNK,,USA
+74409,SHBA.ST,,Svenska Handelsbanken AB (publ),STO,,Sweden
+74474,SVHG.F,,Svenska Handelsbanken AB (publ),FRA,,France
+74601,SVHH.F,,Svenska Handelsbanken AB (publ),FRA,,France
+74650,SHB-B.ST,x,Svenska Handelsbanken AB (publ),STO,Money Center Banks,Sweden
+74708,SHB-A.ST,x,Svenska Handelsbanken AB (publ),STO,Money Center Banks,Sweden
+75551,HIFA-BTA-B.ST,,HIFA-BTA-B.ST,,,
+75566,HIFA-TR-B.ST,,HIFA-TR-B.ST,,,
+76727,PRESHMP-B.BO,,PRESHMP-B.BO,,,
+219221,VEND-B.ST,,hubbr AB (publ),,,
+770681,HUBR-B.ST,,hubbr AB (publ),STO,,Sweden
+77279,TRELCHE-B.BO,,TECIL CHEMICALS & HYDRO POWER,BSE,,India
+79253,SNGHLSW-B.BO,,SINGHAL SWAROOP ISPAT LTD.,BSE,,India
+79318,THPRISP-B.BO,,THAPAR ISPAT LTD.,BSE,,India
+80122,JYNTPPR-B.BO,,JYNTPPR-B.BO,,,
+80511,JORDENG-B.BO,,JORDENG-B.BO,,,
+82106,KLBRENG-B.BO,,Kilburn Engineering Limited,BSE,,India
+84481,COIMLAK-B.BO,,COIMLAK-B.BO,,,
+84632,BALMERL-B.BO,,BALMER LAWRIE FREIGHT CONTAINE,BSE,,India
+85075,ROCKLES-B.BO,,ROCKLES-B.BO,,,
+85131,LGT-B.TO,x,Logistec Corporation,TOR,Shipping,Canada
+85132,LGT-A.TO,x,Logistec Corporation,TOR,Lodging,Canada
+85742,LTKBF,,Logistec Corporation,PNK,,USA
+85482,LLSW-BTA-B.ST,,LLSW-BTA-B.ST,,,
+86181,TAGM-BTA-B.ST,,TagMaster AB BTA,STO,,Sweden
+86327,MNYRPLA-B.BO,,MANIYAR PLAST LTD.,BSE,,India
+86779,MCCHRLS-B.BO,,Mac Charles (India) Ltd.,BSE,,India
+86881,MDTERYT-B.BO,,MODERN TERRY TOWELS LTD.,BSE,,India
+86896,MDRNTHR-B.BO,,MODERN THREADS (INDIA) LTD.,BSE,,India
+86916,MDRNSYN-B.BO,,MODERN SYNTEX (INDIA) LTD.,BSE,,India
+86976,MESPHAR-B.BO,,MESCO PHARMACEUTICALS LTD.,BSE,,India
+87061,MHTSULF-B.BO,,MEHTA SULFITES (INDIA) LTD.,BSE,,India
+22542,MVZ-A.CR,x,MERCANTIL SERVICIOS FINANCIEROS,CCS,,Venezuela
+87154,MVZ-B.CR,x,MERCANTIL SERVICIOS FINANCIEROS,CCS,,Venezuela
+87506,RAMAPPR-B.BO,,Rama Paper Mills Ltd.,BSE,,India
+87606,MIDESTI-B.BO,,MIDEAST (INDIA) LTD.,BSE,,India
+87713,DEMI-BTA-B.ST,,Delta Minerals AB BTA B,STO,,Sweden
+87961,MMRUBBR-B.BO,,MM Rubber Co. Ltd.,BSE,,India
+89904,NIL-B.ST,,Nilörngruppen AB,STO,,Sweden
+91756,ORT-TR-B.ST,,Ortoma AB TR B,STO,,Sweden
+91779,ORT-BTA-B.ST,,Ortoma AB BTA B,STO,,Sweden
+28699,0R8U.L,,Pandox AB (publ),LSE,,United Kingdom
+92104,PNDX-B.ST,,Pandox AB (publ),STO,,Sweden
+92163,PRSRSYN-B.BO,,PARASRAMPURIA SYNTHETICS LTD.,BSE,,India
+92314,PARMCOS-B.BO,,Paramount Cosmetics (India) Limited,BSE,,India
+92626,PENTFOR-B.BO,,PENTAFOUR PRODUCTS LTD.,BSE,,India
+92672,PEXA-B.ST,,PExA AB,STO,,Sweden
+92679,PNTASOL-B.BO,,PENTAFOUR SOLEC TECHNOLOGY LTD,BSE,,India
+92802,PERTCOM-B.BO,,PERTCOM-B.BO,,,
+92911,SECT-IL-B.ST,,SECT-IL-B.ST,,,
+28441,PRIME.ST,,Prime Living AB (publ),STO,,Sweden
+94074,PRIME-PREF-B.ST,,Prime Living AB (publ),STO,,Sweden
+94135,SAGRSOY-B.BO,,SAGAR SOYA PRODUCTS LTD.,BSE,,India
+95542,DEFL-TR-B.ST,,Deflamo AB TR B,STO,,Sweden
+95544,TAGM-TR-B.ST,,TagMaster AB TR B,STO,,Sweden
+95562,TAUR-TR-B.ST,,TAUR-TR-B.ST,,,
+95658,DEWRUBB-B.BO,,DEWAN RUBBER INDUSTRIES LTD.,BSE,,India
+96155,SCC-B.ST,,SCC-B.ST,STO,,Sweden
+350751,ALLG-B.ST,,Allgon AB (publ),STO,,Sweden
+962511,SMAQ-B.ST,,Allgon AB (publ),,,
+97049,SIRISLT-B.BO,,SIRIS LTD.,BSE,,India
+22962,SPTBO.CR,,SUELOPETROL,CCS,,Venezuela
+98083,SPT-B.CR,x,SUELOPETROL,CCS,,Venezuela
+98630,SPT-O.CR,x,SUELOPETROL,CCS,,Venezuela
+98441,STORY-B.ST,,Storytel AB ser. B,STO,,Sweden
+98541,SUDTIND-B.BO,,Suditi Industries Ltd.,BSE,,India
+225951,RABT-B.ST,,Viking Supply Ships AB (publ),,,
+986931,VSSAB-B.ST,,Viking Supply Ships AB (publ),STO,,Sweden
+99179,TAUR-BTA-B.ST,,TAUR-BTA-B.ST,,,
+99282,TAUR-B.ST,,Taurus Energy AB,STO,,Sweden
+101675,VANTECH-B.BO,,VANTECH INDUSTRY LTD.,BSE,,India
+101862,VNP-B.CR,,VENEPAL.B,CCS,,Venezuela
+102020,VSD-B.ST,,Vibrosense Dynamics AB,STO,,Sweden
+102074,VITACHM-B.BO,,VITARA CHEMICALS LTD.,BSE,,India
+102538,INDWIRE-B.BO,,INDORE WIRE CO.LTD.,BSE,,India
+102637,TWW-SDB-B.ST,,TWW-SDB-B.ST,STO,,Sweden
+104135,COPP-B.ST,,Copperstone Resources AB,STO,,Sweden
+104138,5KP.F,,Copperstone Resources AB,FRA,,France
+104171,COVENSP-B.BO,,COVENTRY SPRING & ENGINEERING,BSE,,India
+104501,GRHMFRT-B.BO,,GRAHAM FIRTH STEEL PRODUCTS LT,BSE,,India
+104917,INISS-B.ST,,Inission AB (publ),STO,,Sweden
+105497,MICROPL-B.BO,,MICRO PLANTAE LTD.,BSE,,India
+105824,RENZTLB-B.BO,,RENZTLB-B.BO,,,
+28072,STAR.ST,,Starbreeze AB (publ),,,
+28293,STBEF,,Starbreeze AB (publ),PNK,,USA
+106078,STAR-A.ST,x,Starbreeze AB (publ),STO,,Sweden
+106083,STAR-B.ST,x,Starbreeze AB (publ),STO,,Sweden
