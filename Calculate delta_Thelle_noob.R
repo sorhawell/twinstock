@@ -17,7 +17,7 @@ as.numeric(nonNumeric)
 delta <- (as.numeric(latestValues[6])-as.numeric(latestValues[12]))/as.numeric(latestValues[6])
 delta
 
-#Using for loop to print all deltas:
+#Using for loop to print all deltas: (need to fix CSV to only contain two pairs in same currency)
 
 for(i in seq(from=6, to=255, by=12)){
   print((as.numeric(latestValues[i])-as.numeric(latestValues[i+6]))/as.numeric(latestValues[i]))
