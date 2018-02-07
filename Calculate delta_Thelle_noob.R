@@ -22,3 +22,22 @@ delta
 for(i in seq(from=6, to=255, by=12)){
   print((as.numeric(latestValues[i])-as.numeric(latestValues[i+6]))/as.numeric(latestValues[i]))
 }
+
+#Adding names for shares to deltas print
+colnames(latestValues)[6]
+
+for(i in seq(from=6, to=255, by=12)){
+  print(colnames(latestValues)[i])
+  print((as.numeric(latestValues[i])-as.numeric(latestValues[i+6]))/as.numeric(latestValues[i]))
+}
+
+#Using for loop to append latest deltas to a vector
+latestDeltaList = list()
+for (j in seq(from=1, to=24, by=1)){
+  for(i in seq(from=6, to=255, by=12)){
+    dat <- (as.numeric(latestValues[i])-as.numeric(latestValues[i+6]))/as.numeric(latestValues[i])
+    latestDeltaList[[j]] <- dat #adding j counter for adding data 
+  }
+}
+
+latestDeltaList
