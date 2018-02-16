@@ -60,6 +60,8 @@ allTwins.list = lapply(nameList, function(x) {
 
 
 ## write you own favorite function here
+
+# List of all twin deltas
 aTwin = allTwins.list[[2]]
 allDelts = lapply(allTwins.list, function(aTwin) {
   out = quantmod::Delt(aTwin$a.df$Close,aTwin$b.df$Close)[,1]
@@ -67,12 +69,47 @@ allDelts = lapply(allTwins.list, function(aTwin) {
   out
 })
 
-i=1
+# Getting the latest deltas
+latestDelts = lapply(allDelts, tail, n = 1L)
+latestDelts
 
-par(mfrow=c(3,3))
-for(i in 1:9) {
+# Finding delts over a certain value
+
+# Plot of first 4 deltas
+i=1
+par(mfrow=c(2,2))
+for(i in 1:4) {
   j=names(nameList)[i]
   nameAB= paste(nameList[[i]],collapse="_")
   plot(as.POSIXct(names(allDelts[[i]])),allDelts[[i]],
        main=nameAB,ylab="delts",type="l", ylim=c(-.2,.2))
 }
+
+
+# no. 10 - ATCO = Atlas Copco - but in the script below it seems to be no. 8??? (# no. 10 - wait a second - this does not match with Euroinvestor..)
+
+# resetting plot parameter
+par(mfrow=c(1,1))
+
+# abline - showing mean
+
+allDelts[[8]]
+unlistedAllDelts <- unlist(as.numeric(allDelts[[8]]))
+unlistedAllDelts
+mean(unlistedAllDelts, na.rm=TRUE)
+
+#Plotting ATCO-COPO with mean
+nameAB= paste(nameList[[8]],collapse="_")
+plot(as.POSIXct(names(allDelts[[8]])),allDelts[[8]],
+     main=nameAB,ylab="delts",type="l")
+
+unlistedAllDelts <- unlist(as.numeric(allDelts[[8]]))
+abline(h=mean(unlistedAllDelts, na.rm=TRUE), col="blue")
+
+
+#getting mean of a from a list..:
+mean(as.numeric(unlist(cars)))
+
+#plotting with mean in blue:
+plot(cars)
+abline(h=mean(as.numeric(unlist(cars))), col="blue")
