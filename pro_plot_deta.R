@@ -105,11 +105,3 @@ plot(as.POSIXct(names(allDelts[[8]])),allDelts[[8]],
 
 unlistedAllDelts <- unlist(as.numeric(allDelts[[8]]))
 abline(h=mean(unlistedAllDelts, na.rm=TRUE), col="blue")
-
-
-#getting mean of a from a list..:
-mean(as.numeric(unlist(cars)))
-
-#plotting with mean in blue:
-plot(cars)
-abline(h=mean(as.numeric(unlist(cars))), col="blue")
