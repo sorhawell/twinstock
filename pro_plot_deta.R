@@ -54,9 +54,9 @@ allTwins.list = lapply(nameList, function(x) {
   names(b.df) = c("Open", "High", "Low", "Close", "Volume", "Adjusted")
   
   out = list(a.df = a.df,b.df = b.df)
-  
   return(out)
 })
+names(allTwins.list) =  sapply(nameList,function(x) x[1])
 
 
 ## write you own favorite function here
@@ -67,12 +67,14 @@ allDelts = lapply(allTwins.list, function(aTwin) {
   out
 })
 
-i=1
 
 par(mfrow=c(3,3))
 for(i in 1:9) {
   j=names(nameList)[i]
   nameAB= paste(nameList[[i]],collapse="_")
-  plot(as.POSIXct(names(allDelts[[i]])),allDelts[[i]],
+  if(i==1) plot(as.POSIXct(names(allDelts[[i]])),allDelts[[i]],
        main=nameAB,ylab="delts",type="l", ylim=c(-.2,.2))
 }
+
+
+

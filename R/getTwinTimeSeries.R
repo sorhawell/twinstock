@@ -37,20 +37,28 @@ splitTwin=splitTwin[hasTwoRows]
 splitTwin.df = do.call(rbind,splitTwin)
 
 
-data.list = lapply(paste0("./data/symbols/",splitTwin.df$ticker),read.csv,stringsAsFactors=FALSE)
-data.list[[1]]$X
-allObservedDates = sort(unique(unlist(lapply(data.list,function(x) x$X))))
+data.list = lapply(paste0("./data/symbols/",splitTwin.df$ticker),read.table,stringsAsFactors=FALSE)
+row.names(data.list[[1]])
+allObservedDates = sort(unique(unlist(lapply(data.list,row.names))))
 
 out = lapply(data.list, function(df) {
   m = matrix(NA,nrow=length(allObservedDates),ncol=ncol(df))
   dfm = data.frame(m)
-  dfm[allObservedDates%in%df$X,] = df
+  dfm[allObservedDates%in%rownames(df),] = df
   names(dfm) = names(df)
   dfm$X=NULL
   dfm
 })
 #names(out) = splitTwin.df$ticker
 out[[1]]
-all = do.call(cbind,out)
+all = do.call(cbind,c(list(time=allObservedDates),out))
 write.csv(all,"data/allTwins.csv")
 View(all)
+
+
+quantmod::Delt(
+  out[[1]]$MAERSK.B.CO.Open,
+  out[[1]]$MAERSK.B.CO.Close)
+
+
+               
